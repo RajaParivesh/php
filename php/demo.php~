@@ -1,0 +1,32 @@
+<?php 
+<table>
+	<thead>
+		<tr>
+			<th>name</th>
+			<th>class</th>
+			<th>roll</th>
+			<th>marks</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>raja	</td>
+			<td>15</td>
+			<td>52</td>
+			<td>54</td>
+		</tr>
+		<tr>
+			<td>taaoof</td>
+			<td>5</td>
+			<td>5</td>
+			<td>2</td>
+		</tr>
+		<tr>
+			<td>fsafdgag</td>
+			<td>55</td>
+			<td>554</td>
+			<td>664</td>
+		</tr>
+	</tbody>
+</table>";
+?>
