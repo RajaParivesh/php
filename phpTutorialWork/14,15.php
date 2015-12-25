@@ -1,8 +1,10 @@
 <?php 
-error_reporting(0);
-klasjdlkf;
-echo dfalk
-echo sdklakl{][]kdjkj}
+error_reporting(E_ALL);
+
+echo $_POST['lol'];
+	$klasjdlkf=2;
+	echo dfalk;
+	// echo sdklakl{][]kdjkj}
 
 // but error_reporting is not working???????
 
